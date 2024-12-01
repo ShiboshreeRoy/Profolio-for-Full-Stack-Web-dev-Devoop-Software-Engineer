@@ -10,7 +10,9 @@ This is a professional portfolio showcasing the skills and projects of a Full-St
 
 ### Project Image:
 
-![Project Image 1](../project/src/DB/Project.png)  
+
+![Project Image](../project/src/DB/Project.png)
+
 ![Project Image 2](../project/src/DB/Project_Img.png)
 
 ### Project Video:
